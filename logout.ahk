@@ -1,4 +1,4 @@
-# Hit F12 to Logout
+; Hit F12 to Logout
 
 F12::
 IfWinActive, Path of Exile
